@@ -1,2 +1,5 @@
 # Libretto-W100-Hackintosh
-Hackintosh Files for the Toshiba Libretto W100
+Experimental.
+
+Currently doing tests on OS X El Capitan
+Status: No Graphics Acceleration - boots in Safe Mode only (framebuffer patch issue)
